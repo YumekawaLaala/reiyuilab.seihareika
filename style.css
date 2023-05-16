@@ -53,6 +53,7 @@ footer {
     }
 
 table {
+    border:0.1rem solid #000000;
     margin: 0;
     border-spacing: 0;
     border-collapse: separate;
