@@ -59,6 +59,7 @@ table {
 }
 
 th,td {
+    border:0.1rem solid #000000;
     white-space: nowrap;
     padding: 0.5rem;
     background: #ffffff;
